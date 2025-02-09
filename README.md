@@ -5,8 +5,7 @@
 
 - 💬 Pregúntame sobre **Angular, SpringBoot, Typescript, HTML, CSS, Bootstrap, Java, Ruby, MySQL y Python.**
 
-- 📫 ¿Cómo me puedes conocer?
--       **ricardosande101@gmail.com**
+- 📫 ¿Cómo me puedes conocer? --> **ricardosande101@gmail.com**
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
