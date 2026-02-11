@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;LLMs+%7C+AI+Agents+%7C+RAG+%7C+Multimodal+AI;Production-Scale+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=AI/ML+Engineer;LLMs+%7C+AI+Agents+%7C+RAG+%7C+Multimodal+AI;Production-Scale+AI+Systems" />
 </p>
 
 ## 👋 About Me
