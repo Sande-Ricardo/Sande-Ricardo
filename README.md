@@ -16,29 +16,10 @@ My work spans **machine learning, AI systems, distributed backend services, fron
 ## Core Expertise
 
 ### Machine Learning & Deep Learning
-- Supervised, unsupervised, and representation learning  
-- Model training, fine-tuning, and evaluation  
-- Optimization, regularization, and performance tuning  
-
 ### LLM Engineering
-- Fine-tuning, instruction tuning, and alignment  
-- Prompt engineering, guardrails, and evaluation  
-- Efficient inference, batching, and cost optimization  
-
 ### Agentic AI Systems
-- Multi-agent architectures and coordination  
-- Tool-augmented reasoning and planning  
-- Graph-based execution and long-running workflows  
-
 ### RAG & Knowledge Systems
-- Dense + sparse hybrid retrieval  
-- Semantic chunking and embedding strategies  
-- Context compression, grounding, and evaluation  
-
 ### Multimodal AI
-- Speech-to-text and text-to-speech  
-- Image generation and visual reasoning  
-- Video analysis and cross-modal pipelines  
 
 ---
 
