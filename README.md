@@ -1,25 +1,15 @@
 <!-- Subtle professional animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3600&pause=1200&color=2F80ED&center=true&vCenter=true&width=1200&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;LLMs+%7C+Agents+%7C+RAG+%7C+Multimodal+AI;End-to-End+AI+Systems+from+Research+to+Production" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3600&pause=1200&color=2F80ED&center=true&vCenter=true&width=1200&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;LLMs+%7C+Agents+%7C+RAG+%7C+Multimodal+AI;End-to-End+AI+Systems+from+Research+to+Production" />
 </p>
 
 ---
 
 ## AI/ML Engineer | Full-Stack Developer
 
-I design, implement, and deploy **production-scale AI systems and full-stack applications**, specializing in **large language models (LLMs), autonomous agent systems, retrieval-augmented generation (RAG), and multimodal AI**.
+I design, implement, and deploy **production-scale AI systems and full-stack applications**, specializing in **large language models (LLMs), multi-agent AI systems, retrieval-augmented generation (RAG), and multimodal AI**.
 
 My work spans **machine learning, AI systems, distributed backend services, frontend applications, and cloud infrastructure**, delivering systems that are **scalable, secure, observable, and production-ready**.
-
----
-
-## Core Expertise
-
-### Machine Learning & Deep Learning
-### LLM Engineering
-### Agentic AI Systems
-### RAG & Knowledge Systems
-### Multimodal AI
 
 ---
 
@@ -110,15 +100,6 @@ My work spans **machine learning, AI systems, distributed backend services, fron
 - **AI-powered SaaS products** with auth, billing, and scale
 - **Multimodal AI applications** (text, vision, speech)
 - End-to-end **ML pipelines** from experimentation to deployment
-
----
-
-## Engineering Principles
-
-- Production-first system design  
-- Security, observability, and cost efficiency  
-- Strong separation of concerns and clean architecture  
-- Business-aligned engineering decisions  
 
 ---
 
