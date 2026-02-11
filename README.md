@@ -1,63 +1,100 @@
-<!-- Subtle animated headline -->
+<!-- Subtle professional animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=1200&color=2F80ED&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+Production-Scale+LLMs+and+Agent+Systems;Autonomous+AI+Agents+%7C+RAG+Pipelines+%7C+Multimodal+AI;From+Research+to+Reliable+Production+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3600&pause=1200&color=2F80ED&center=true&vCenter=true&width=1200&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;LLMs+%7C+Agents+%7C+RAG+%7C+Multimodal+AI;End-to-End+AI+Systems+from+Research+to+Production" />
 </p>
 
 ---
 
-## AI/ML Engineer
+## AI/ML Engineer | Full-Stack Developer
 
-I design, implement, and deploy **production-scale AI systems** specializing in **large language models (LLMs), autonomous AI agents, retrieval-augmented generation (RAG), and multimodal AI**.
+I design, implement, and deploy **production-scale AI systems and full-stack applications**, specializing in **large language models (LLMs), autonomous agent systems, retrieval-augmented generation (RAG), and multimodal AI**.
 
-My work spans **advanced machine learning, AI engineering, and full-stack development**, delivering systems that are **scalable, reliable, and production-ready** — from experimentation through deployment.
+My work spans **machine learning, AI systems, distributed backend services, frontend applications, and cloud infrastructure**, delivering systems that are **scalable, secure, observable, and production-ready**.
 
 ---
 
 ## Core Expertise
 
-**LLM Engineering**
-- Fine-tuning and instruction tuning  
-- Evaluation, optimization, and alignment  
-- Efficient inference and deployment strategies  
+### Machine Learning & Deep Learning
+- Supervised, unsupervised, and representation learning  
+- Model training, fine-tuning, and evaluation  
+- Optimization, regularization, and performance tuning  
 
-**AI Agent Systems**
-- Multi-agent architectures  
-- Tool-integrated reasoning  
-- Autonomous, goal-driven workflows  
+### LLM Engineering
+- Fine-tuning, instruction tuning, and alignment  
+- Prompt engineering, guardrails, and evaluation  
+- Efficient inference, batching, and cost optimization  
 
-**RAG Pipelines**
-- Hybrid retrieval (dense + sparse)  
-- Semantic chunking and indexing  
-- High-precision knowledge-intensive systems  
+### Agentic AI Systems
+- Multi-agent architectures and coordination  
+- Tool-augmented reasoning and planning  
+- Graph-based execution and long-running workflows  
 
-**Multimodal AI**
-- Speech synthesis and recognition  
-- Vision and image generation  
-- Video understanding and multimodal reasoning  
+### RAG & Knowledge Systems
+- Dense + sparse hybrid retrieval  
+- Semantic chunking and embedding strategies  
+- Context compression, grounding, and evaluation  
+
+### Multimodal AI
+- Speech-to-text and text-to-speech  
+- Image generation and visual reasoning  
+- Video analysis and cross-modal pipelines  
 
 ---
 
 ## Technology Stack
 
-### AI & ML
-![LLMs](https://img.shields.io/badge/LLMs-Foundation%20Models-blue)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue)
-![Agents](https://img.shields.io/badge/AI%20Agents-Multi--Agent%20Systems-blue)
-![Multimodal](https://img.shields.io/badge/Multimodal-Audio%20%7C%20Vision%20%7C%20Text-blue)
+### ML & Deep Learning
+![Python](https://img.shields.io/badge/Python-ML%20Core-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-blue)
+![Keras](https://img.shields.io/badge/Keras-Neural%20Networks-blue)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data-blue)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-ML-blue)
+![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-blue)
+![LightGBM](https://img.shields.io/badge/LightGBM-Boosting-blue)
 
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-Production-green)
+---
+
+### LLM, Agent & AI Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-Agent%20Framework-blue)
+![LangGraph](https://img.shields.io/badge/LangGraph-Graph--Based%20Agents-blue)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent%20Orchestration-blue)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG%20Framework-blue)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Models%20%26%20Training-blue)
+![OpenAI](https://img.shields.io/badge/OpenAI-LLMs-blue)
+![Anthropic](https://img.shields.io/badge/Anthropic-LLMs-blue)
+
+---
+
+### Backend & API Development
+![FastAPI](https://img.shields.io/badge/FastAPI-High--Performance-green)
 ![Django](https://img.shields.io/badge/Django-Backend-green)
-![Node.js](https://img.shields.io/badge/Node.js-APIs-green)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Express](https://img.shields.io/badge/Express.js-APIs-green)
+![REST](https://img.shields.io/badge/REST-APIs-green)
+![GraphQL](https://img.shields.io/badge/GraphQL-APIs-green)
+![gRPC](https://img.shields.io/badge/gRPC-RPC-green)
+![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-green)
 
-### Frontend
+---
+
+### Frontend & Web
 ![React](https://img.shields.io/badge/React-UI-lightblue)
 ![Next.js](https://img.shields.io/badge/Next.js-Full--Stack-lightblue)
 ![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-lightblue)
+![TypeScript](https://img.shields.io/badge/TypeScript-Web-lightblue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Styling-lightblue)
 
-### Data & Vector Stores
+---
+
+### Databases, Search & Vector Stores
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-informational)
+![MySQL](https://img.shields.io/badge/MySQL-Relational-informational)
 ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-informational)
+![Redis](https://img.shields.io/badge/Redis-Caching-informational)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-Search-informational)
 ![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-informational)
 ![Weaviate](https://img.shields.io/badge/Weaviate-Vector%20DB-informational)
 ![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20DB-informational)
@@ -65,23 +102,43 @@ My work spans **advanced machine learning, AI engineering, and full-stack develo
 
 ---
 
+### Auth, Security & Payments
+![JWT](https://img.shields.io/badge/JWT-Authentication-critical)
+![OAuth2](https://img.shields.io/badge/OAuth2-Authorization-critical)
+![RBAC](https://img.shields.io/badge/RBAC-Access%20Control-critical)
+![Stripe](https://img.shields.io/badge/Stripe-Billing-critical)
+
+---
+
+### Cloud, DevOps & MLOps
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Docker](https://img.shields.io/badge/Docker-Containers-orange)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-orange)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-orange)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-orange)
+![MLflow](https://img.shields.io/badge/MLflow-MLOps-orange)
+![Airflow](https://img.shields.io/badge/Airflow-Orchestration-orange)
+![Monitoring](https://img.shields.io/badge/Monitoring-Observability-orange)
+
+---
+
 ## What I Build
 
-- **Enterprise RAG Systems** for domain-specific knowledge retrieval  
-- **AI Agent Platforms** enabling reasoning-driven automation  
-- **Multimodal AI Products** combining text, vision, and speech  
-- **LLM-Powered SaaS** with scalable infrastructure, auth, and billing  
-- **Custom AI Pipelines** from research prototypes to production  
+- Production-grade **LLM and RAG platforms**
+- **Agent-based AI systems** for automation and decision support
+- **AI-powered SaaS products** with auth, billing, and scale
+- **Multimodal AI applications** (text, vision, speech)
+- End-to-end **ML pipelines** from experimentation to deployment
 
 ---
 
 ## Engineering Principles
 
-- System-level optimization beyond API usage  
-- End-to-end ownership across ML, backend, frontend, and infrastructure  
-- Production-first mindset: reliability, observability, and cost control  
-- Focus on measurable business impact  
+- Production-first system design  
+- Security, observability, and cost efficiency  
+- Strong separation of concerns and clean architecture  
+- Business-aligned engineering decisions  
 
 ---
 
-*Building AI systems designed to operate reliably at scale.*
+*Focused on building reliable, scalable AI and full-stack systems.*
