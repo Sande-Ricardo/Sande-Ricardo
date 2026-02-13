@@ -43,8 +43,10 @@ My work spans **machine learning, AI systems, distributed backend services, fron
 ![FastAPI](https://img.shields.io/badge/FastAPI-High--Performance-green)
 ![Django](https://img.shields.io/badge/Django-Backend-green)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-green)
 ![Express](https://img.shields.io/badge/Express.js-APIs-green)
 ![REST](https://img.shields.io/badge/REST-APIs-green)
+![Flask](https://img.shields.io/badge/Flask-Microservices-green)
 ![GraphQL](https://img.shields.io/badge/GraphQL-APIs-green)
 ![gRPC](https://img.shields.io/badge/gRPC-RPC-green)
 ![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-green)
@@ -52,6 +54,7 @@ My work spans **machine learning, AI systems, distributed backend services, fron
 ---
 
 ### Frontend & Web
+![Angular](https://img.shields.io/badge/Angular-Frontend-lightblue)
 ![React](https://img.shields.io/badge/React-UI-lightblue)
 ![Next.js](https://img.shields.io/badge/Next.js-Full--Stack-lightblue)
 ![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-lightblue)
@@ -90,6 +93,16 @@ My work spans **machine learning, AI systems, distributed backend services, fron
 ![MLflow](https://img.shields.io/badge/MLflow-MLOps-orange)
 ![Airflow](https://img.shields.io/badge/Airflow-Orchestration-orange)
 ![Monitoring](https://img.shields.io/badge/Monitoring-Observability-orange)
+
+---
+
+### UI/UX Design
+![Figma](https://img.shields.io/badge/Figma-UI-8A2BE2)
+![Inkscape](https://img.shields.io/badge/Inkscape-Design-8A2BE2)
+![Miro](https://img.shields.io/badge/Miro-UI-8A2BE2)
+![Maze](https://img.shields.io/badge/Maze-UX-8A2BE2)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-Desing-8A2BE2)
+![Stitch](https://img.shields.io/badge/Stitch-UI-8A2BE2)
 
 ---
 
