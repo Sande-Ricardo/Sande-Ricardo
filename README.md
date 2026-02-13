@@ -92,6 +92,7 @@ My work spans **machine learning, AI systems, distributed backend services, fron
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-orange)
 ![MLflow](https://img.shields.io/badge/MLflow-MLOps-orange)
 ![Airflow](https://img.shields.io/badge/Airflow-Orchestration-orange)
+![Firebase](https://img.shields.io/badge/Firebase-Cloud-orange)
 ![Monitoring](https://img.shields.io/badge/Monitoring-Observability-orange)
 
 ---
